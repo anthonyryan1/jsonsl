@@ -1,8 +1,4 @@
-=begin html
-
-<img src="https://api.travis-ci.org/mnunberg/jsonsl.png"/>
-
-=end html
+=for HTML <a href="https://travis-ci.org/mnunberg/jsonsl"><img src="https://travis-ci.org/mnunberg/jsonsl.svg?branch=master"></a>
 
 =head1 JSONSL
 
